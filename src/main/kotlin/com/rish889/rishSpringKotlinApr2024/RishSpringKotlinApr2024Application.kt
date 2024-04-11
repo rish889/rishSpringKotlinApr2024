@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class RishSpringKotlinApr2024Application
 
 fun main(args: Array<String>) {
-	runApplication<RishSpringKotlinApr2024Application>(*args)
+    runApplication<RishSpringKotlinApr2024Application>(*args)
 }
